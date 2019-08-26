@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: What's Up Compadres To Ian Flanders's Page
 description: Bookmark the page to see what happens. Follow my Soundcloud, link is on the site.
-body { backround-color: darkred; }
-
+body {backround-color: darkred;}
