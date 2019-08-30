@@ -22,5 +22,5 @@ li {
 #borderimg {
   border: 10px solid transparent;
   padding: 15px;
-  border-image: url(border.png) 30 round;
+  border-image: "https://images.app.goo.gl/nN8Pyw3BqsSYE6EU8" 30 round;
 }
