@@ -1,5 +1,5 @@
 body {
-  background-color: red;
+  background-color: magenta;
 }
 
 h1 {
@@ -19,8 +19,3 @@ li {
   text-align: left;
 }
 
-#borderimg {
-  border: 10px solid transparent;
-  padding: 15px;
-  border-image: "https://images.app.goo.gl/nN8Pyw3BqsSYE6EU8" 30 round;
-}
