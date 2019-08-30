@@ -3,19 +3,19 @@ body {
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
   font-family: "Chalkduster", fantasy;
 }
 
 p {
-  color: white;
+  color: black;
   text-align: left;
   font-family: "Stencil std", fantasy;
 }
 
 li {
-  color: white;
+  color: black;
   text-align: left;
 }
 
