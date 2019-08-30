@@ -5,12 +5,13 @@ body {
 h1 {
   color: white;
   text-align: center;
+  font-family: "Chalkduster", fantasy;
 }
 
 p {
   color: white;
   text-align: left;
-  font-family: "Sketchtopia"
+  font-family: "Stencil std", fantasy;
 }
 
 li {
