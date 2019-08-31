@@ -6,7 +6,7 @@ h1 {
   color: black;
   text-align: center;
   font-family: "Chalkduster", fantasy;
-  border: 1px solid;
+  border: 10px double;
   outline-stlye: double;
   outline-color: limegreen;
 }
