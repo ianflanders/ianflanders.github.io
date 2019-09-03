@@ -6,17 +6,17 @@ h1 {
   color: black;
   text-align: center;
   font-family: "Chalkduster", fantasy;
-  border: 10px double;
-  outline-stlye: double;
-  outline-color: lime;
+  border: 1px solid black;
+  outline-style: double;
+  outline-color: green;
 }
 
 p {
   color: black;
   text-align: left;
   font-family: "Stencil std", fantasy;
-  border: 5px dotted;
-  outline-style: dotted;
+  border: 1px solid black;
+  outline-style: double;
   outline-color: green;
 }
 
