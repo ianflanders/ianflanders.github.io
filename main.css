@@ -15,6 +15,7 @@ p {
   color: black;
   text-align: left;
   font-family: "Stencil std", fantasy;
+  border: 5px dotted;
   outline-style: dotted;
   outline-color: green;
 }
