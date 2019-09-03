@@ -8,7 +8,7 @@ h1 {
   font-family: "Chalkduster", fantasy;
   border: 1px solid;
   outline-style: double;
-  outline-color: lime;
+  outline-color: 10px lime;
 }
 
 p {
@@ -26,4 +26,10 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+li {
+  display: block;
+  width: 60px;
+  background-color: white;
 }
