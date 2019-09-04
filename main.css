@@ -14,24 +14,22 @@ p {
   font-family: "Stencil std", fantasy;
 }
 
-li {
-  color: black;
-  text-align: left;
-  display: inline;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
+  overflow: hidden;
   background-color: black;
-  border: 1px solid white;
+}
+
+li {
+  float: left;
 }
 
 li a {
   display: block;
-  color: lime;
-  padding: 8px 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
 }
