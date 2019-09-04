@@ -6,12 +6,14 @@ h1 {
   color: black;
   text-align: center;
   font-family: "Chalkduster", fantasy;
+  font-size: 100px
 }
 
 p {
   color: black;
   text-align: center;
   font-family: "Stencil std", fantasy;
+  font-size: 50px
 }
 
 ul {
