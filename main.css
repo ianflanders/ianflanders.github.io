@@ -27,12 +27,12 @@ ul {
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: white;
+  background-color: black;
 }
 
 li a {
   display: block;
-  color: lime;
+  color: white;
   padding: 8px 16px;
   text-decoration: none;
 }
