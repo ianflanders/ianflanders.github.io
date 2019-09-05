@@ -43,3 +43,9 @@ img {
   margin-right: auto;
   width: 25%, "height": 25%;
 }
+
+h2 {
+   color: black;
+  text-align: center;
+  font-family: "Chalkduster", fantasy;
+  font-size: 35px
