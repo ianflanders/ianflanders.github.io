@@ -36,7 +36,7 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
+/*This is what makes my picture the right size and puts it in the right place*/
 img {
   display: block;
   margin-left: auto;
