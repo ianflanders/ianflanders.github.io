@@ -1,0 +1,51 @@
+body {
+  background-color: magenta;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: "Chalkduster", fantasy;
+  font-size: 50px
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-family: "Stencil std", fantasy;
+  font-size: 20px
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li {
+  float: left;
+  border-right: 1px solid white;
+}
+
+li a {
+  display: block;
+  color: lime;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/*This is what makes my picture the right size and puts it in the right place*/
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%, "height": 25%;
+}
+
+h2 {
+   color: black;
+  text-align: center;
+  font-family: "Chalkduster", fantasy;
+  font-size: 45px
