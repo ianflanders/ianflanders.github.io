@@ -3,14 +3,14 @@ body {
 }
 /*Above is what changes the color of my backround for my website*/
 h1 {
-  color: gold;
+  color: brown;
   text-align: center;
   font-family: "Chalkduster", fantasy;
   font-size: 50px
 }
 
 p {
-  color: gold;
+  color: brown;
   text-align: center;
   font-family: "Stencil std", fantasy;
   font-size: 30px
