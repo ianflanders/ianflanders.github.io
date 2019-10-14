@@ -42,3 +42,11 @@ h2 {
   text-align: center;
   font-family: "Chalkduster", fantasy;
   font-size: 45px
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1%, "height": 1%;
+}
