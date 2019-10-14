@@ -31,7 +31,7 @@ li {
 /*This is what changes the font of my navbar*/
 li a {
   display: block;
-  color: darkred;
+  color: darkgreen;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
