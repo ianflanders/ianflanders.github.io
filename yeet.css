@@ -3,14 +3,14 @@ body {
 }
 
 h1 {
-  color: black;
+  color: darkred;
   text-align: center;
   font-family: "Chalkduster", fantasy;
   font-size: 50px
 }
 
 p {
-  color: black;
+  color: darkred;
   text-align: center;
   font-family: "Stencil std", fantasy;
   font-size: 20px
@@ -31,21 +31,14 @@ li {
 /*This is what changes the font of my navbar*/
 li a {
   display: block;
-  color: lime;
+  color: darkred;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%, "height": 25%;
-}
-
 h2 {
-   color: black;
+   color: darkred;
   text-align: center;
   font-family: "Chalkduster", fantasy;
   font-size: 45px
