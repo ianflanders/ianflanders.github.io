@@ -1,5 +1,5 @@
 body {
-  background-color: magenta;
+  background-color: turquoise;
 }
 /*Above is what changes the color of my backround for my website*/
 h1 {
@@ -31,7 +31,7 @@ li {
 
 li a {
   display: block;
-  color: lime;
+  color: turquoise;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
