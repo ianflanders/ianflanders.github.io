@@ -57,10 +57,11 @@ img {
   margin: auto;
   text-align: center;
   font-family: arial;
+  color: white;
 }
 
 .price {
-  color: grey;
+  color: black;
   font-size: 22px;
 }
 
@@ -69,7 +70,7 @@ img {
   outline: 0;
   padding: 12px;
   color: white;
-  background-color: #000;
+  background-color: white;
   text-align: center;
   cursor: pointer;
   width: 100%;
